@@ -2,7 +2,7 @@
 
 <p> <b> Run npm: </b> </p>
 <p> npm init </p>
-<p> <b> Install node package </b> </p>
+<p> <b> Install node package with this command: </b> </p>
 <p> npm install express express-validator body-parser bcryptjs jsonwebtoken mongoose --save </p>
 
 #After Installing module
