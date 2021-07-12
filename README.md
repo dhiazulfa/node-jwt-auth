@@ -1,11 +1,12 @@
 # node-jwt-auth
 
-<p> Run npm: </p>
+<p> <b> Run npm: </b> </p>
 <p> npm init </p>
-<p> Install node package </p>
+<p> <b> Install node package </b> </p>
 <p> npm install express express-validator body-parser bcryptjs jsonwebtoken mongoose --save </p>
 
 #After Installing module
 
 <p> Change the URL of mongodb in config/db.js </p>
-Run with: node index.js
+
+<p> Run with: node index.js </p>
